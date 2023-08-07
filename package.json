@@ -1,0 +1,14 @@
+{
+  "name": "webbok",
+  "version": "1.0.0",
+  "description": "HTML/CSS/Javascript cookbook",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js --watch"
+  },
+  "author": "Gabriel Morikawa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
