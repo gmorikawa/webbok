@@ -1,2 +1,5 @@
-#node
+# node
 node_modules
+
+# static files
+*.pdf
